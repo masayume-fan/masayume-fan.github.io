@@ -1,21 +1,21 @@
-<?xml version="1.0"?>
-<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
 <channel>
-<title>正夢チックタック〜過去音源補完計画〜</title>
-<link>http://www.voiceblog.jp/ticktack-radio/</link>
+<title>[昇順]正夢チックタックまとめ</title>
+<link>http://masayumeticktack.seesaa.net</link>
 <description>堀川裕介と久津間悠己によるネットバラエティ！聴けばきっと楽しいよ！</description>
 <language>ja</language>
 <pubDate>Wed, 06 Jun 2012 00:12:27 +0900</pubDate>
 <category>Weblog</category>
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <ttl>90</ttl>
-<itunes:author>堀川裕介/久津間悠己</itunes:author>
-<itunes:image href="http://livedoor.2.blogimg.jp/picnic777picnic/imgs/7/a/7a4904b5.jpg" />
+<ns0:author>堀川裕介/久津間悠己</ns0:author>
+<ns0:image href="http://livedoor.2.blogimg.jp/picnic777picnic/imgs/7/a/7a4904b5.jpg" />
 
 
 <item>
 <title>正夢チックタック〜第１回〜</title>
-<link>http://www.voiceblog.jp/ticktack/758103.html</link>
+<link>http://masayumeticktack.seesaa.net/article/458842959.html</link>
 <description>第一回目再アップです！
 当時の文章がなくなってしまったので、
 適当に書いときます！
@@ -32,14 +32,14 @@
 　　「ファミレス」</description>
 <pubDate>Fri, 23 Jan 2009 16:47:36 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1232726310.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/0120E7ACACE4B880E59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第２回〜</title>
-<link>http://www.voiceblog.jp/ticktack/767537.html</link>
+<link>http://masayumeticktack.seesaa.net/article/458842976.html</link>
 <description>第二回です！
 これまた文章が消失したので概略だけ
 書いておきます。
@@ -57,14 +57,14 @@
 （本ページ更新日　2006年12月12日）</description>
 <pubDate>Wed, 04 Feb 2009 06:00:13 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1232726396.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/2kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第３回〜</title>
-<link>http://www.voiceblog.jp/ticktack/767540.html</link>
+<link>http://masayumeticktack.seesaa.net/article/458842990.html</link>
 <description>第三回でございます！
 ここに書くことが無いです！
 
@@ -80,14 +80,14 @@
 （本ページ更新日　2006年12月19日）</description>
 <pubDate>Wed, 04 Feb 2009 06:07:31 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1232726539.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/3kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第４回（クリスマススペシャル）〜</title>
-<link>http://www.voiceblog.jp/ticktack/774135.html</link>
+<link>http://masayumeticktack.seesaa.net/article/458843013.html</link>
 <description>番組開始４回目にして特別企画に
 挑戦した無謀な回です！！
 
@@ -99,14 +99,14 @@
 （本ページ更新日　2006年12月25日）</description>
 <pubDate>Thu, 12 Feb 2009 02:46:33 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1232726794.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/4kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第５回〜</title>
-<link>http://www.voiceblog.jp/ticktack/774141.html</link>
+<link>http://masayumeticktack.seesaa.net/article/458843032.html</link>
 <description>五回目です！
 新年があけてます
 
@@ -124,14 +124,14 @@
 （本ページ更新日　2007年1月9日）</description>
 <pubDate>Thu, 12 Feb 2009 02:58:52 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1232727706.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/6kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第６回〜</title>
-<link>http://www.voiceblog.jp/ticktack/785563.html</link>
+<link>http://masayumeticktack.seesaa.net/article/458843048.html</link>
 <description>１、フリートーク
 ２、堀川に聞け！
 　　「ストリートファイターⅡ」
@@ -146,14 +146,14 @@
 （本ページ更新日　2007年1月16日）</description>
 <pubDate>Wed, 25 Feb 2009 11:12:30 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1232727873.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/0720E7ACACE585ADE59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第７回〜</title>
-<link>http://www.voiceblog.jp/ticktack/785571.html</link>
+<link>http://masayumeticktack.seesaa.net/article/461862270.html</link>
 <description>１、フリートーク
 ２、堀川に聞け！
 　　「伊豆の踊り子」
@@ -166,13 +166,13 @@
 　　「裸の大将」</description>
 <pubDate>Wed, 25 Feb 2009 11:17:47 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1232727951.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/0920E7ACACE4B883E59B9E.mp3" />
 </item>
 
 <item>
 <title>正夢チックタック〜第９回〜</title>
-<link>http://www.voiceblog.jp/ticktack/819510.html</link>
+<link>http://masayumeticktack.seesaa.net/article/461862284.html</link>
 <description>１、フリートーク
 ２、堀川に聞け！
 　　「三匹が斬る」
@@ -187,14 +187,14 @@
 （本ページ更新日　2007年2月6日）</description>
 <pubDate>Sun, 05 Apr 2009 07:45:30 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1238918230.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/1320E7ACACE4B99DE59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第十回（バレンタインスペシャル）〜</title>
-<link>http://www.voiceblog.jp/ticktack/819527.html</link>
+<link>http://masayumeticktack.seesaa.net/article/461862291.html</link>
 <description>この回から、本ページの文章が残っているので
 これ以降そのまま載せます。
 
@@ -229,14 +229,14 @@
 （本ページ更新日　2007年2月13日）</description>
 <pubDate>Sun, 05 Apr 2009 07:59:54 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1235581360.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/1420E7ACACE58D81E59B9EEFBC88E38390E383ACE383B3E382BFE382A4E383B3E789B9E588A5E4BC81E794BBEFBC89.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１１回〜</title>
-<link>http://www.voiceblog.jp/ticktack/821996.html</link>
+<link>http://masayumeticktack.seesaa.net/article/461862295.html</link>
 <description>今回は随所に気持ち悪い仲良しトーク
 がちりばめられております。
 
@@ -260,14 +260,14 @@
 ５、コントの森　「力士VSエイリアン」</description>
 <pubDate>Wed, 08 Apr 2009 00:53:33 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1235581403.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/1620E7ACACE58D81E4B880E59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１２回〜</title>
-<link>http://www.voiceblog.jp/ticktack/821998.html</link>
+<link>http://masayumeticktack.seesaa.net/article/461862304.html</link>
 <description>第十二回。今週も青木は眠気をおして
 がんばってます！
 
@@ -291,14 +291,14 @@
 （本ページ更新日　2007年2月27日）</description>
 <pubDate>Wed, 08 Apr 2009 00:55:58 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1235581448.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/1820E7ACACE58D81E4BA8CE59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１３回〜</title>
-<link>http://www.voiceblog.jp/ticktack/827540.html</link>
+<link>http://masayumeticktack.seesaa.net/article/461862305.html</link>
 <description>今日はいつものメンバーに加えて
 見学者がやってきた！いつも以上に
 ワイワイガヤガヤしてます。
@@ -323,14 +323,14 @@
 （本ページ更新日　2007年3月6日）</description>
 <pubDate>Wed, 15 Apr 2009 01:26:46 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1239152867.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/2020E7ACACE58D81E4B889E59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１４回〜</title>
-<link>http://www.voiceblog.jp/ticktack/827543.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462003484.html</link>
 <description>今日も観覧のお客さんが来てます。
 いつにもましてフリートークはぐっちゃぐちゃです。
 
@@ -358,14 +358,14 @@
 （本ページ更新日　2007年3月13日）</description>
 <pubDate>Wed, 15 Apr 2009 01:31:40 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1239759390.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/14kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１５回〜</title>
-<link>http://www.voiceblog.jp/ticktack/833292.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462003492.html</link>
 <description>今週は番組史上初、久津間が誕生日ドッキリ
 にはめられます！
 タイトルコールから、堀川が打ち合わせとは
@@ -398,14 +398,14 @@
 （本ページ更新日　2007年3月20日）</description>
 <pubDate>Wed, 22 Apr 2009 15:18:33 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1239152997.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/2220E7ACACE58D81E4BA94E59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１６回〜</title>
-<link>http://www.voiceblog.jp/ticktack/833293.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462003503.html</link>
 <description>祝ポッドキャスト５０人突破！
 今週も二人はバカ会話に花を咲かせてます。
 
@@ -426,14 +426,14 @@
 ５、コントの森　　「師匠と弟子」</description>
 <pubDate>Wed, 22 Apr 2009 15:20:58 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1239153120.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/16kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１７回〜</title>
-<link>http://www.voiceblog.jp/ticktack/833295.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462003504.html</link>
 <description>今週は堀川がとんでもない嘘をつきます！
 
 １、フリートーク（２〜１５分）
@@ -454,14 +454,14 @@
 ５、コントの森　　「卒業式」</description>
 <pubDate>Wed, 22 Apr 2009 15:23:32 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1239153171.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/2320E7ACACE58D81E4B883E59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１８回〜</title>
-<link>http://www.voiceblog.jp/ticktack/846215.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462003509.html</link>
 <description>今日はピンクな雰囲気満載でお送りします！
 
 １、フリートーク（３〜１７分）
@@ -480,14 +480,14 @@
 ５、コントの森　「数え侍」</description>
 <pubDate>Sat, 09 May 2009 03:03:59 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1239153227.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/2520E7ACACE58D81E585ABE59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１９回〜</title>
-<link>http://www.voiceblog.jp/ticktack/846216.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462003516.html</link>
 <description>今週もはっちゃけてる二人。久津間の曲も
 初公開します。
 
@@ -509,14 +509,14 @@
 ５、コントの森　「宝くじ」</description>
 <pubDate>Sat, 09 May 2009 03:05:48 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1239153276.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/2620E7ACACE58D81E4B99DE59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第２０回〜</title>
-<link>http://www.voiceblog.jp/ticktack/846226.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462327294.html</link>
 <description>今週は２０回記念、「桜は散ったが俺らは散らぬ！
 過去にすがって生きていこうスペシャル！」と
 称して、今までの放送を振り返ります。
@@ -538,8 +538,8 @@
 　　部分について話してます。　　</description>
 <pubDate>Sat, 09 May 2009 03:15:44 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db4.voiceblog.jp/data/ticktack/1239153330.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/2720E7ACACE4BA8CE58D81E59B9E.mp3" />
 </item>
 
 
@@ -547,7 +547,7 @@
 
 <item>
 <title>正夢チックタック〜第２２回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1332401.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462327309.html</link>
 <description>久津間は段取りを間違え、堀川は
 意味不明のOPトーク。とにかく今週も
 元気に喋ってます。
@@ -569,8 +569,8 @@
 ５、コントの森　　「濡れ衣」</description>
 <pubDate>Tue, 22 Feb 2011 17:15:21 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298390457.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/22kai.mp3" />
 </item>
 
 
@@ -579,7 +579,7 @@
 
 <item>
 <title>正夢チックタック〜第２４回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1332403.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462327314.html</link>
 <description>今日は冒頭から汚い話しまくりです。
 
 １、フリートーク（３〜１８分）
@@ -598,14 +598,14 @@
 ５、コントの森　「梅雨」</description>
 <pubDate>Tue, 22 Feb 2011 17:17:36 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298390686.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/24kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第２５回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1332404.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462327320.html</link>
 <description>今週はなんと番組史上最長タイムを記録！
 その理由はフリートーク中に二人が突如突入した
 意味不明コントのせい！！
@@ -632,14 +632,14 @@
 ５、コントの森　「ゴドーを待ちながら」</description>
 <pubDate>Tue, 22 Feb 2011 17:18:41 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298390789.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/25kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第２６回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1332405.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462327323.html</link>
 <description>久々の家収録でリラックスムードの二人。
 それでいていつものアホトークは健在！
 
@@ -660,14 +660,14 @@
 ５、コントの森　　「チャーハン探偵堀川裕介」</description>
 <pubDate>Tue, 22 Feb 2011 17:19:43 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298390850.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/26kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第２７回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1332406.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462327394.html</link>
 <description>久々に眠りかけの青木も参戦！
 徐々に二人のテンションがおかしく
 なっていきます。
@@ -697,14 +697,14 @@
 　　　　　　　　　　　　どうなりますか？」</description>
 <pubDate>Tue, 22 Feb 2011 17:21:32 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298390942.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/27kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第２８回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1332407.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462327400.html</link>
 <description>隣の部屋が大盛り上がりなカラオケで収録！
 負けじと声をはりあげてがんばってます。
 
@@ -726,14 +726,14 @@
 ５、コントの森　「避難訓練」</description>
 <pubDate>Tue, 22 Feb 2011 17:22:28 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298391027.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/28kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第２９回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1332408.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462327409.html</link>
 <description>今週は二人とも知識をアピール。
 結果どっちもアホになってます！
 新コーナーも地味に始動！
@@ -758,14 +758,14 @@
 ５、コントの森　　「南極探検隊」</description>
 <pubDate>Tue, 22 Feb 2011 17:24:36 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298391143.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/29kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜３０回記念スペシャル〜</title>
-<link>http://www.voiceblog.jp/ticktack/1332415.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462327417.html</link>
 <description>今回でくだらない放送を続けて３０回！！
 いつも以上にくだらないスペシャル企画を
 お送りします！
@@ -792,14 +792,14 @@
 　　　やりとりを盗録！？必聴です！</description>
 <pubDate>Tue, 22 Feb 2011 17:27:15 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298391656.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/30kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第３１回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1332422.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462327419.html</link>
 <description>ミクシー内で番組コミュニティー
 を立ち上げた！必死に参加人数を
 増やそうとする二人をお楽しみください。
@@ -823,14 +823,14 @@
 ５、コントの森　　「南極探検隊」</description>
 <pubDate>Tue, 22 Feb 2011 17:28:19 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298391355.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/31kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第３２回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1332436.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462327422.html</link>
 <description>今週は久しぶりに観覧希望者がやってきた！
 堀川が異常にハイです。
 
@@ -850,14 +850,14 @@
 ５、コントの森　　「南極探検隊」</description>
 <pubDate>Tue, 22 Feb 2011 17:30:19 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298391785.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/32kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第３３回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1332444.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462327430.html</link>
 <description>今週はいつものフリートークの後に
 緊急特別企画！堀川が仕切ります！
 
@@ -875,14 +875,14 @@
 　　　　　　トークをお楽しみください。</description>
 <pubDate>Tue, 22 Feb 2011 17:31:28 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298391855.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/33kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第３４回〜（スペシャル月間第一弾）</title>
-<link>http://www.voiceblog.jp/ticktack/1332454.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462468169.html</link>
 <description>今週から始まる夏のスペシャル月間！
 第一弾は、「チックタックvs青木・馬上」！！
 普段スタッフをやっている青木、馬上が
@@ -907,14 +907,14 @@
 ・エンディング（４０〜）</description>
 <pubDate>Tue, 22 Feb 2011 17:32:46 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298391950.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/34kai20vs20special.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第３５回〜（スペシャル月間第二弾）</title>
-<link>http://www.voiceblog.jp/ticktack/1332464.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462468177.html</link>
 <description>スペシャル第二弾はまるごと大喜利！
 ゲスト解答者山本氏も交えて乱れてます！
 
@@ -941,14 +941,14 @@
 ※曲紹介「agitator」　クツマユウキ</description>
 <pubDate>Tue, 22 Feb 2011 17:34:21 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298392140.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/35kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第３６回〜（スペシャル月間第三弾）</title>
-<link>http://www.voiceblog.jp/ticktack/1332465.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462468183.html</link>
 <description>スペシャル月間第三弾は、
 番組史上初、ロケを敢行！！
 
@@ -959,14 +959,14 @@
 上野のアメ横に繰り出します！</description>
 <pubDate>Tue, 22 Feb 2011 17:35:07 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298392271.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/36kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第３７回〜（スペシャル月間第４弾）</title>
-<link>http://www.voiceblog.jp/ticktack/1332466.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462468187.html</link>
 <description>スペシャル月間の最後を飾るのはコント
 スペシャル！！計３名のゲストを迎え、
 コントにトークに大盛り上がりです！
@@ -1002,14 +1002,14 @@
 ９、EDトーク</description>
 <pubDate>Tue, 22 Feb 2011 17:36:47 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298394307.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/37kaiconte20sp.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第３８回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1334459.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462468191.html</link>
 <description>スペシャル月間を終え、一ヶ月ぶり
 のレギュラー放送！久々の感じに戸惑い
 ながらもバカ会話してます。
@@ -1031,14 +1031,14 @@
 ５、コントの森　　「さらば！チャーハン探偵</description>
 <pubDate>Fri, 25 Feb 2011 14:37:15 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298644379.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/38kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第３９回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1334460.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462468194.html</link>
 <description>今週は諸事情により「堀川プロフィール」
 二本立て！！詳しくは３６分辺りを聞いてください。
 
@@ -1057,14 +1057,14 @@
 　　　　　　　「ミスタージョゼモバリベン」</description>
 <pubDate>Fri, 25 Feb 2011 14:39:01 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298394664.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/39kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第４０回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1334463.html</link>
+<link>http://masayumeticktack.seesaa.net/article/462468196.html</link>
 <description>意味の無いやりとりを繰り返して今週で
 ４０回目！今週はスタッフ青木から
 重大発表があります！！
@@ -1088,14 +1088,14 @@
 ５、コントの森　　「結婚しようよ」</description>
 <pubDate>Fri, 25 Feb 2011 14:42:16 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298394375.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/40kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第４１回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1334465.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463163334.html</link>
 <description>M-1の予選が近づき緊張気味の二人。
 が、くだらなさは相変わらず。番組初の
 プチハプニングも起きたりしてます。
@@ -1118,14 +1118,14 @@
 ５、コントの森　　「出会ったころのように」</description>
 <pubDate>Fri, 25 Feb 2011 14:44:03 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298394716.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/41kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第４２回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1334476.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463163344.html</link>
 <description>M-1直前の二人。そんな緊張感が微塵もない
 相変わらずのバカトークです。
 
@@ -1148,14 +1148,14 @@
 Posted by ticktack at October 16, 2007, 10:28 pm</description>
 <pubDate>Fri, 25 Feb 2011 14:51:19 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298645113.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/42kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第４３回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1334478.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463178792.html</link>
 <description>今週はM-1レポートです！！
 
 番組開始以来初めて二人が参加したM-1
@@ -1164,14 +1164,14 @@ Posted by ticktack at October 16, 2007, 10:28 pm</description>
 Posted by ticktack at October 23, 2007, 11:04 pm</description>
 <pubDate>Fri, 25 Feb 2011 14:52:25 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298645235.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/43kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第４４回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1334486.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463208648.html</link>
 <description>オープニングテーマも新しくなって
 プチリニューアルです！
 
@@ -1190,14 +1190,14 @@ Posted by ticktack at October 23, 2007, 11:04 pm</description>
 Posted by ticktack at October 30, 2007, 4:40 pm</description>
 <pubDate>Fri, 25 Feb 2011 15:01:22 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298645599.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/44kaime.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第４５回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1334488.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463208657.html</link>
 <description>なんだかんだで久しぶりの通常放送！
 二人はあいもかわらず意味のないやりとりに
 精を出します！
@@ -1216,14 +1216,14 @@ Posted by ticktack at October 30, 2007, 4:40 pm</description>
 Posted by ticktack at December 4, 2007, 11:04 pm</description>
 <pubDate>Fri, 25 Feb 2011 15:02:20 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1298645928.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/6120E7ACACEFBC94EFBC95E59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第４６回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369376.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463250748.html</link>
 <description>今週も二人はわけのわからないテンション
 で突っ走ってます。初っ端から猥談です！
 
@@ -1248,14 +1248,14 @@ Posted by ticktack at December 4, 2007, 11:04 pm</description>
 December 4, 2007, 11:04 pm</description>
 <pubDate>Tue, 19 Apr 2011 15:22:21 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303226439.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/6420E7ACACEFBC94EFBC96E59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第４７回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369378.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463279832.html</link>
 <description>今回で「正夢チックタック」一周年突破！
 でもいつもどおりのバカバカしい放送を
 お送りします。
@@ -1277,14 +1277,14 @@ December 4, 2007, 11:04 pm</description>
  Posted by ticktack at December 18, 2007, 12:22 pm</description>
 <pubDate>Tue, 19 Apr 2011 15:23:45 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303226142.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/6220E7ACACEFBC94EFBC97E59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第４８回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369389.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463293054.html</link>
 <description>年の瀬でもいつもどおりの無意味
 トークに華を咲かせます！
 久々に久津間が生歌披露もしてます。
@@ -1304,14 +1304,14 @@ December 4, 2007, 11:04 pm</description>
  Posted by ticktack at December 18, 2007, 12:22 pm</description>
 <pubDate>Tue, 19 Apr 2011 15:40:54 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303226770.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/6520E7ACACEFBC94EFBC98E59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第４９回（クリスマススペシャル）〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369391.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463309854.html</link>
 <description>今年もやってまいりましたクリスマス特番！
 去年のスペシャルで生まれた「イェイ・イェイ・
 クリスマス」を熱唱しながらの幕開けです！
@@ -1338,14 +1338,14 @@ December 4, 2007, 11:04 pm</description>
 　　今年も新たなクリスマスソングが番組中に誕生。</description>
 <pubDate>Tue, 19 Apr 2011 15:42:41 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303227305.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/6620Xmas20special07E38080E7ACAC49E59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第５０回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369395.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463330301.html</link>
 <description>今年も元気にバカな放送に励む二人。
 急にやることになったコントライブの
 内情とは！？
@@ -1365,14 +1365,14 @@ December 4, 2007, 11:04 pm</description>
 January 9, 2008, 11:00 pm</description>
 <pubDate>Tue, 19 Apr 2011 15:44:50 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303227508.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/662050.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第５１回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369414.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463428271.html</link>
 <description>今週から大々的にリスナーからの
 メールを紹介します！みんな送って
 くればいいじゃない！ついでにコントライブ
@@ -1391,14 +1391,14 @@ January 9, 2008, 11:00 pm</description>
 January 16, 2008, 11:20 pm</description>
 <pubDate>Tue, 19 Apr 2011 16:23:20 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303227994.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/51kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第５２回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369415.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463428274.html</link>
 <description>リスナーからの投稿も徐々に増えだしました！
 それもあってか二人が異様にハイです。
 
@@ -1419,14 +1419,14 @@ January 16, 2008, 11:20 pm</description>
 January 22, 2008, 12:28 am</description>
 <pubDate>Tue, 19 Apr 2011 16:24:59 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303228120.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/52kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第５３回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369417.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463428284.html</link>
 <description>今回は久津間から重大発表！？が飛び出します！
 １、フリートーク（４〜１９分）
 　　夢について話してます
@@ -1443,14 +1443,14 @@ January 22, 2008, 12:28 am</description>
 January 29, 2008, 1:11 pm</description>
 <pubDate>Tue, 19 Apr 2011 16:26:36 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303228460.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/53kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第５４回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369418.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463428298.html</link>
 <description>さあさあ！いよいよコント公演直前！！
 本番に怯えながらも自信があるような
 わけがわからないテンションです！！
@@ -1469,14 +1469,14 @@ January 29, 2008, 1:11 pm</description>
 February 5, 2008, 10:50 pm</description>
 <pubDate>Tue, 19 Apr 2011 16:28:10 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303229405.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/54kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第５５回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369424.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463488067.html</link>
 <description>お待たせしました！二週間ぶりの更新です！！
 コント公演も終わり少しフワフワしている二人を
 お楽しみください。
@@ -1495,14 +1495,14 @@ February 5, 2008, 10:50 pm</description>
 February 19, 2008, 4:54 pm</description>
 <pubDate>Tue, 19 Apr 2011 16:30:53 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303229722.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/55.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第５６回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369426.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463488075.html</link>
 <description>今週は番組始まって以来の作家馬上を徹底解剖！
 茶化しながらも馬上のプロフィールを丸裸にします！
 １、フリートーク（２〜１９分）
@@ -1519,14 +1519,14 @@ February 19, 2008, 4:54 pm</description>
 February 26, 2008, 11:41 am</description>
 <pubDate>Tue, 19 Apr 2011 16:32:56 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303229778.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/7520E7ACACEFBC95EFBC97E59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第５７回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369430.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463488079.html</link>
 <description>二週間ぶりの通常放送！「堀川に聞け」は
 番組初のテイストに仕上がっております。
 
@@ -1546,14 +1546,14 @@ February 26, 2008, 11:41 am</description>
 March 11, 2008, 11:42 pm</description>
 <pubDate>Tue, 19 Apr 2011 16:36:48 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303229839.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/7620E7ACACEFBC95EFBC98E59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第５８回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369431.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463488087.html</link>
 <description>今週から思いつきで大型新企画が始動！
 期待しないで聞いてください。
 
@@ -1572,14 +1572,14 @@ March 11, 2008, 11:42 pm</description>
   March 18, 2008, 11:07 pm</description>
 <pubDate>Tue, 19 Apr 2011 16:38:03 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303229901.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/7720E7ACACEFBC95EFBC99E59B9E.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第５９回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369432.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463489257.html</link>
 <description>お待たせしました！
 今週は久津間の天然ぶりに堀川がツボにはまったり
 相変わらずばかばかしい内容！久津間の新曲も
@@ -1603,14 +1603,14 @@ March 11, 2008, 11:42 pm</description>
 April 1, 2008, 11:10 pm</description>
 <pubDate>Tue, 19 Apr 2011 16:40:30 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303229969.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/60kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜６０回記念スペシャル〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369434.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463489263.html</link>
 <description>くだらない話をし続けて今週で６０回！！
 それを記念して３０回と同じ企画を繰り広げます！
 
@@ -1632,14 +1632,14 @@ April 1, 2008, 11:10 pm</description>
 April 8, 2008, 11:41 pm</description>
 <pubDate>Tue, 19 Apr 2011 16:42:05 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303230035.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/792061kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第６２回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369443.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463489273.html</link>
 <description>今週は第５７回で久津間が話していた
 定食屋「古都」にチックタックと作家馬上
 の３人で向かう！！
@@ -1647,14 +1647,14 @@ April 8, 2008, 11:41 pm</description>
 はたして三人は完食することができるのか！？</description>
 <pubDate>Tue, 19 Apr 2011 16:57:38 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303231451.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/812062koto.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第６３回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369444.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463489297.html</link>
 <description>さて、今回は先週の古都からの帰り道、
 「強制信号ものまねゲーム」を開催！！
 
@@ -1662,14 +1662,14 @@ April 8, 2008, 11:41 pm</description>
 アホな３人の姿をお楽しみください。</description>
 <pubDate>Tue, 19 Apr 2011 16:58:51 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303231494.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/822063.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第６４回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369447.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463493622.html</link>
 <description>お芝居の稽古に明け暮れる日々を送る二人。
 今回もカラオケからの放送です！
 
@@ -1689,14 +1689,14 @@ April 8, 2008, 11:41 pm</description>
 May 21, 2008, 11:43 pm</description>
 <pubDate>Tue, 19 Apr 2011 17:00:28 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303231542.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/832064kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第６５回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369449.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463516604.html</link>
 <description>お芝居も本番が近付いてきました！
 そんなわけで今週もカラオケ収録。
 
@@ -1709,14 +1709,14 @@ May 21, 2008, 11:43 pm</description>
 May 28, 2008, 11:07 pm</description>
 <pubDate>Tue, 19 Apr 2011 17:02:35 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303231575.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/842065kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第６６回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369450.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463516617.html</link>
 <description>告知してきたお芝居がついに
 本番を迎えます！！
 
@@ -1734,14 +1734,14 @@ http://www.fmchappy.jp/
 June 5, 2008, 11:07 pm</description>
 <pubDate>Tue, 19 Apr 2011 17:05:07 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303231618.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/852066kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第６７回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369455.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463569680.html</link>
 <description>お待たせしました！！
 お芝居が終了し、久々のレギュラー放送です！！！
 
@@ -1760,14 +1760,14 @@ June 5, 2008, 11:07 pm</description>
 June 18, 2008, 11:24 pm</description>
 <pubDate>Tue, 19 Apr 2011 17:07:02 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303231710.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/862067kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第６８回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369456.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463569687.html</link>
 <description>今週はリスナーに声高に呼びかけたり
 夢の話であがったり妄想トークが
 飛び交ってます！！
@@ -1787,14 +1787,14 @@ June 18, 2008, 11:24 pm</description>
 June 25, 2008, 12:36 pm</description>
 <pubDate>Tue, 19 Apr 2011 17:08:35 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303231765.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/872068.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第６９回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369457.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463613635.html</link>
 <description>１、フリートーク（２〜１９分）
 　　写真撮影について話してます
 
@@ -1808,14 +1808,14 @@ June 25, 2008, 12:36 pm</description>
 ４、コントの森　　「怪談」</description>
 <pubDate>Tue, 19 Apr 2011 17:11:14 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303231886.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/882069.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第７０回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369460.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463613652.html</link>
 <description>今回は「四畳半スクリーマー」第９５回の
 内容に久津間が牙を剥く！！
 久津間VS白井の変態論争の行方やいかに！？
@@ -1838,14 +1838,14 @@ June 25, 2008, 12:36 pm</description>
 July 9, 2008, 9:43 pm</description>
 <pubDate>Tue, 19 Apr 2011 17:13:09 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303231961.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/892070.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第７１回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369464.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463662450.html</link>
 <description>今週は後半二人ともあまりのくだらなさに
 フガフガしながらやってます！
 
@@ -1864,14 +1864,14 @@ July 9, 2008, 9:43 pm</description>
 July 16, 2008, 11:02 pm</description>
 <pubDate>Tue, 19 Apr 2011 17:17:20 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303232039.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/902071.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第７２回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369466.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463662472.html</link>
 <description>今週もリスナーのお悩みにふざけ半分で答える！
 みんな！適当に悩みを送って下さいな。
 
@@ -1890,14 +1890,14 @@ July 16, 2008, 11:02 pm</description>
 July 23, 2008, 1:59 am</description>
 <pubDate>Tue, 19 Apr 2011 17:22:02 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303233495.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/912072.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第７３回〜</title>
-<link>http://www.voiceblog.jp/ticktack/1369467.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463755158.html</link>
 <description>緊急事態！なんと作家馬上が収録を寝過した！
 番組史上初のチックタック二人きりでの収録＆
 特別（思いつき）企画をお聞きください。
@@ -1919,14 +1919,14 @@ July 23, 2008, 1:59 am</description>
 July 30, 2008, 6:45 pm</description>
 <pubDate>Tue, 19 Apr 2011 17:23:41 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303233564.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/922073.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第７4回〜（スペシャル月間第一弾）</title>
-<link>http://www.voiceblog.jp/ticktack/1369469.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463755165.html</link>
 <description>さあ、今年もやってまいりました！
 夏のスペシャル月間！
 第一週目の企画は、去年と同様
@@ -1952,14 +1952,14 @@ July 30, 2008, 6:45 pm</description>
 August 6, 2008, 5:05 pm</description>
 <pubDate>Tue, 19 Apr 2011 17:25:07 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/ticktack/1303233636.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/932074.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第７５回〜（スペシャル月間第二弾）〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1694847.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463755175.html</link>
 <description>スペシャル企画第二弾は・・・&amp;#8232;「堀川が聞く」！！
 普段コーナーで聞かれて&amp;#8232;ばかりの堀川が今回は聞く側に回ります！！
 &amp;#8232;さて、久津間とスタッフ二人はどう切り抜ける&amp;#8232;のか！？&amp;#8232;&amp;#8232;
@@ -1974,14 +1974,14 @@ August 6, 2008, 5:05 pm</description>
 August 13, 2008, 5:45 pm</description>
 <pubDate>Sun, 08 Apr 2012 01:45:30 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333818735.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/942075kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第７６回〜（スペシャル月間第三弾）</title>
-<link>http://www.voiceblog.jp/kutsumasan/1694849.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463755191.html</link>
 <description>今週は４人そろって外ロケ！
 &amp;#8232;堀川が言いだした「ムーミンに会いたい」&amp;#8232;の一言から
 わけのわからないロケに！！&amp;#8232;&amp;#8232;
@@ -1991,14 +1991,14 @@ August 13, 2008, 5:45 pm</description>
 August 20, 2008, 11:46 pm</description>
 <pubDate>Sun, 08 Apr 2012 01:47:33 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333818799.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/952076kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第７７回（スペシャル企画第四弾）〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1694851.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463755211.html</link>
 <description>８月のスペシャル月間延長戦！！&amp;#8232;
 今回の企画は「絵本を読む４人」！！&amp;#8232;
 今年二月のコントライブで披露したアドリブ&amp;#8232;での朗読
@@ -2008,14 +2008,14 @@ August 20, 2008, 11:46 pm</description>
 September 3, 2008, 11:05 pm</description>
 <pubDate>Sun, 08 Apr 2012 01:52:21 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333818945.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/962077kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第７８回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1694854.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463755235.html</link>
 <description>久しぶりの通常放送です！&amp;#8232;
 スペシャル月間に久津間の身に起こった&amp;#8232;革命と、
 史上初の方向に飛んだ「堀川に聞け」&amp;#8232;にご注目ください！！&amp;#8232;&amp;#8232;
@@ -2031,14 +2031,14 @@ September 3, 2008, 11:05 pm</description>
 September 10, 2008, 11:16 pm</description>
 <pubDate>Sun, 08 Apr 2012 01:54:28 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333818991.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/982078kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第７９回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1700006.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463861592.html</link>
 <description>今回はテーマトークでの新企画で&amp;#8232;予想以上に
 収録時間が延びました！！&amp;#8232;男くさいテーマトークと
 「ちょばちょば」の&amp;#8232;正体を確かめてください！！
@@ -2058,14 +2058,14 @@ September 10, 2008, 11:16 pm</description>
 Posted by ticktack at September 17, 2008, 11:44 pm</description>
 <pubDate>Mon, 16 Apr 2012 04:57:08 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819082.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/992079kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第８０回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1700008.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463861600.html</link>
 <description>記念すべき８０回！でも通常放送です！！&amp;#8232;
 何がなんだかわかりませんが、堀川が&amp;#8232;壊れます！！&amp;#8232;&amp;#8232;
 
@@ -2083,14 +2083,14 @@ Posted by ticktack at September 17, 2008, 11:44 pm</description>
 Posted by ticktack at September 24, 2008, 11:43 pm</description>
 <pubDate>Mon, 16 Apr 2012 04:59:04 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819160.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/1002080kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第８１回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1700009.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463861611.html</link>
 <description>またまたテーマトークにて新企画です！&amp;#8232;
 まったりとしたネタ出しのようなコーナー&amp;#8232;を
 ＢＧＭと共にお楽しみください！！
@@ -2109,14 +2109,14 @@ Posted by ticktack at September 24, 2008, 11:43 pm</description>
 Posted by ticktack at October 1, 2008, 11:13 pm</description>
 <pubDate>Mon, 16 Apr 2012 05:01:47 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819190.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/81kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第８２回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1700010.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463861623.html</link>
 <description>来月へと迫ったクツマのワンマンライブ&amp;#8232;の裏側と、
 リスナー層拡大のために始まった&amp;#8232;新コーナーを
 お楽しみください！！&amp;#8232;&amp;#8232;
@@ -2137,14 +2137,14 @@ Posted by ticktack at October 1, 2008, 11:13 pm</description>
 Posted by ticktack at October 8, 2008, 11:42 pm</description>
 <pubDate>Mon, 16 Apr 2012 05:03:52 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819236.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/1022082kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第８３回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1700013.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463861630.html</link>
 <description>なんと今日はチックタックがあの髭の&amp;#8232;大監督を斬る！！
 いつも通りの馬鹿話を&amp;#8232;どうぞ！！
 
@@ -2162,14 +2162,14 @@ Posted by ticktack at October 8, 2008, 11:42 pm</description>
 Posted by ticktack at October 15, 2008, 11:44 pm</description>
 <pubDate>Mon, 16 Apr 2012 05:07:27 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819269.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/83kaime.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第８４回（ゲストがやってきた）〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1700014.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463861634.html</link>
 <description>今週は全編ゲストとトークです！！
 &amp;#8232;第８２回で話していた、クツマワンマンライブ&amp;#8232;の
 OPアクトを務めるバンド「ブドリ」の&amp;#8232;ヴォーカリスト
@@ -2178,14 +2178,14 @@ OPアクトを務めるバンド「ブドリ」の&amp;#8232;ヴォーカリス�
 Posted by ticktack at October 22, 2008, 11:21 pm</description>
 <pubDate>Mon, 16 Apr 2012 05:08:58 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819390.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/84kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第８５回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1704354.html</link>
+<link>http://masayumeticktack.seesaa.net/article/463861647.html</link>
 <description>今週は日本の女性を堀川が斬る！！&amp;#8232;
 というわけでいつも通りの馬鹿放送です。&amp;#8232;&amp;#8232;
 
@@ -2203,14 +2203,14 @@ Posted by ticktack at October 22, 2008, 11:21 pm</description>
 Posted by ticktack at October 29, 2008, 11:17 pm</description>
 <pubDate>Mon, 23 Apr 2012 02:19:26 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819416.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/85kai201.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第８６回（告知スペシャル）〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1704357.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464105606.html</link>
 <description>久津間、ワンマンライブまであと１０日！
 &amp;#8232;というわけでクツマの曲かけまくり、&amp;#8232;ライブの話しまくり
 の告知しまくりの&amp;#8232;特別編をチックタック二人きりでお送りします！！
@@ -2218,14 +2218,14 @@ Posted by ticktack at October 29, 2008, 11:17 pm</description>
 Posted by ticktack at November 5, 2008, 6:20 pm</description>
 <pubDate>Mon, 23 Apr 2012 02:21:32 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819461.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/86kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第８７回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1704359.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464105609.html</link>
 <description>さあ、いよいよ久津間のワンマンライブ&amp;#8232;直前！！
 そんな忙しい時に、久津間の親友&amp;#8232;である
 あいつが番組にやってきた！！
@@ -2233,14 +2233,14 @@ Posted by ticktack at November 5, 2008, 6:20 pm</description>
 Posted by ticktack at November 12, 2008, 10:51 pm</description>
 <pubDate>Mon, 23 Apr 2012 02:23:09 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819481.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/87kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第８８回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1704360.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464105610.html</link>
 <description>お待たせしました！&amp;#8232;ワンマンライブを終えた
 久津間が当日&amp;#8232;の心境を振り返りつつ、ふざけます！！&amp;#8232;
 そして、今度は堀川の舞台にバトンタッチ！！&amp;#8232;
@@ -2249,26 +2249,26 @@ Posted by ticktack at November 12, 2008, 10:51 pm</description>
 Posted by ticktack at November 26, 2008, 11:52 pm</description>
 <pubDate>Mon, 23 Apr 2012 02:24:43 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819513.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/88kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第８９回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1704364.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464105615.html</link>
 <description>さあ、ついに堀川出演の舞台&amp;#8232;「笑われガスター」本番前日！！
 &amp;#8232;堀川がインパラプレパラートの現状を&amp;#8232;語る！！</description>
 <pubDate>Mon, 23 Apr 2012 02:26:44 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819537.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/1122089kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第９０回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1770223.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464105619.html</link>
 <description>今回は堀川出演の舞台に久津間が潜入！&amp;#8232;
 堀川無しでどうにか番組を成立させる&amp;#8232;ために、
 いろんな人に話しかけます！！&amp;#8232;&amp;#8232;
@@ -2279,14 +2279,14 @@ Posted by ticktack at November 26, 2008, 11:52 pm</description>
 Posted by ticktack at December 10, 2008, 8:20 pm</description>
 <pubDate>Fri, 03 Aug 2012 02:43:54 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819565.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/91kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第９１回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1770227.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464105621.html</link>
 <description>お待たせしました！本当に本当に久々の通常放送！
 &amp;#8232;一か月ぶりの「堀川に聞け！」、&amp;#8232;そして帰ってきた大好評（！？）
 企画！！&amp;#8232;なんだかんだでテンションの高い二人を&amp;#8232;お楽しみください！！&amp;#8232;&amp;#8232;
@@ -2306,36 +2306,36 @@ Posted by ticktack at December 10, 2008, 8:20 pm</description>
 Posted by ticktack at December 17, 2008, 8:57 pm</description>
 <pubDate>Fri, 03 Aug 2012 02:45:44 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819611.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/1152092kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック~第92回~</title>
-<link>http://www.voiceblog.jp/kutsumasan/1770228.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464105623.html</link>
 <description>９２回です。当時のテキストを紛失してしまいました。</description>
 <pubDate>Fri, 03 Aug 2012 02:47:57 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819646.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/1162093kai20E696B0E5B9B4E382B9E3839AE382B7E383A3E383AB.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第９４回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1770234.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464213511.html</link>
 <description>９４回です。当時のテキストを紛失してしまいました。</description>
 <pubDate>Fri, 03 Aug 2012 02:50:24 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819761.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/1172094kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第９５回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1770237.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464213517.html</link>
 <description>今年初の通常放送です！！&amp;#8232;
 相変わらずのテンションの二人をお楽しみください！&amp;#8232;&amp;#8232;
 １、フリートーク（４〜２１分）&amp;#8232;　　
@@ -2357,14 +2357,14 @@ Posted by ticktack at December 17, 2008, 8:57 pm</description>
 Posted by ticktack at January 14, 2009, 11:22 pm</description>
 <pubDate>Fri, 03 Aug 2012 02:52:38 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819798.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/1182095kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第９６回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1770241.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464228787.html</link>
 <description>今日は堀川の個室ビデオ初体験やら、&amp;#8232;
 やたらネタっぽ堀川プロフィールやら&amp;#8232;
 相変わらずテンションの高い二人です！&amp;#8232;&amp;#8232;
@@ -2385,14 +2385,14 @@ Posted by ticktack at January 14, 2009, 11:22 pm</description>
 Posted by ticktack at January 21, 2009, 11:49 pm</description>
 <pubDate>Fri, 03 Aug 2012 02:54:25 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819836.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/1192096kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第９７回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1770247.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464228794.html</link>
 <description>今週は久津間の身に起こっているゆゆしき&amp;#8232;事態を告白！
 &amp;#8232;&amp;#8232;１、フリートーク（４〜１９分）&amp;#8232;　　
 「ゆゆしき事態発生」について話してます
@@ -2408,14 +2408,14 @@ Posted by ticktack at January 21, 2009, 11:49 pm</description>
 ※曲紹介　「感情の波」　クツマユウキ</description>
 <pubDate>Fri, 03 Aug 2012 02:56:02 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819873.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/1202097kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第９８回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1770251.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464228799.html</link>
 <description>今週はエンディングに向うにしたがって&amp;#8232;
 どんどん二人のテンションがおかしくなって&amp;#8232;いきます！！&amp;#8232;&amp;#8232;
 
@@ -2435,14 +2435,14 @@ Posted by ticktack at January 21, 2009, 11:49 pm</description>
 Posted by ticktack at February 4, 2009, 2:28 pm</description>
 <pubDate>Fri, 03 Aug 2012 02:57:45 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819911.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/1212098kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第９９回（九十九祭）〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1770253.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464228804.html</link>
 <description>６０回スペシャルで突如命名された&amp;#8232;九十九祭（つくもさい）
 がついに開催！！&amp;#8232;&amp;#8232;別名「久津間戒め祭」と題された今回は、&amp;#8232;
 企画内容を一切しらされないまま、久津間&amp;#8232;がいろんな事を
@@ -2451,14 +2451,14 @@ Posted by ticktack at February 4, 2009, 2:28 pm</description>
 ※曲紹介　「ライフ」　クツマユウキ</description>
 <pubDate>Fri, 03 Aug 2012 02:59:04 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333819964.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/1222099kaiE38080E5B08FE69DBEE69CAAE6ADA9E381AEE8AC8EE38080E5889DE799BBE5A0B4.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜１００回記念スペシャル〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1770268.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464228811.html</link>
 <description>ついに100回です！！&amp;#8232;誰にも求められずアホな
 音源を流し続けて&amp;#8232;１００回目！
 そんなわけでスペシャルです！&amp;#8232;&amp;#8232;
@@ -2478,14 +2478,14 @@ Posted by ticktack at February 4, 2009, 2:28 pm</description>
 Posted by ticktack at February 18, 2009, 3:40 am</description>
 <pubDate>Fri, 03 Aug 2012 03:15:28 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://fkja.voiceblog.jp/data/kutsumasan/1333820000.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/12320100kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１０１回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1788929.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464260362.html</link>
 <description>百回過ぎても相変わらずの意味のない&amp;#8232;放送で楽しんでください！&amp;#8232;&amp;#8232;
 
 １、フリートーク（２〜２０分）&amp;#8232;　　
@@ -2507,14 +2507,14 @@ Posted by ticktack at February 18, 2009, 3:40 am</description>
 Posted by ticktack at February 25, 2009, 7:55 pm │ Comments(0) │ TrackBack(0)</description>
 <pubDate>Wed, 05 Sep 2012 14:23:51 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db9.voiceblog.jp/data/kutsumasan/1343963867.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/101kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１０２回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1788930.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464260371.html</link>
 <description>今週はクツマの新企画発表と、久々に&amp;#8232;復活のあのコーナーなどなど盛りだくさんです！&amp;#8232;&amp;#8232;
 
 １、フリートーク（４〜２０分）&amp;#8232;　　
@@ -2533,14 +2533,14 @@ Posted by ticktack at February 25, 2009, 7:55 pm │ Comments(0) │ TrackBack(0
 Posted by ticktack at March 4, 2009, 2:30 am │ Comments(0) │ TrackBack(0)</description>
 <pubDate>Wed, 05 Sep 2012 14:25:50 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db9.voiceblog.jp/data/kutsumasan/1343963890.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/102kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１０３回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1788933.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464402746.html</link>
 <description>堀川の家にトラブル発生！&amp;#8232;名づけて「トイレの乱」！
 &amp;#8232;まあ、いつものバカ放送です！！&amp;#8232;&amp;#8232;
 
@@ -2559,14 +2559,14 @@ Posted by ticktack at March 4, 2009, 2:30 am │ Comments(0) │ TrackBack(0)</d
 &amp;#8232;&amp;#8232;※　曲紹介　「Dude」　クツマユウキ&amp;#160;&amp;#160;</description>
 <pubDate>Wed, 05 Sep 2012 14:27:51 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db9.voiceblog.jp/data/kutsumasan/1343963920.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/103kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１０４回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1788935.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464402758.html</link>
 <description>今週は若き日の堀川のコント台本を&amp;#8232;大公開！
 そして、「九十九祭」に続く&amp;#8232;新たなスペシャルが決定か！？&amp;#8232;&amp;#8232;
 
@@ -2584,8 +2584,8 @@ Posted by ticktack at March 4, 2009, 2:30 am │ Comments(0) │ TrackBack(0)</d
 &amp;#8232;&amp;#8232;※曲紹介　「funky groovin'」クツマユウキ&amp;#160;&amp;#160;</description>
 <pubDate>Wed, 05 Sep 2012 14:29:58 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db9.voiceblog.jp/data/kutsumasan/1343963947.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/104kai.mp3" />
 </item>
 
 
@@ -2593,7 +2593,7 @@ Posted by ticktack at March 4, 2009, 2:30 am │ Comments(0) │ TrackBack(0)</d
 
 <item>
 <title>正夢チックタック〜第１０６回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1788942.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464402789.html</link>
 <description>更新が遅れて申し訳ありません！&amp;#8232;
 今週は久津間の新曲初公開！お楽しみに！！&amp;#8232;&amp;#8232;
 
@@ -2615,14 +2615,14 @@ Posted by ticktack at March 4, 2009, 2:30 am │ Comments(0) │ TrackBack(0)</d
 Posted by ticktack at April 3, 2009, 12:27 am │ Comments(0) │ TrackBack(0)</description>
 <pubDate>Wed, 05 Sep 2012 14:34:37 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db9.voiceblog.jp/data/kutsumasan/1343963997.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/12920106kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１０７回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1788944.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464402801.html</link>
 <description>今回は男っぽい話題で盛り上がりってます！
 &amp;#8232;女性リスナーの皆さん、ごめんなさい！！
 
@@ -2643,14 +2643,14 @@ Posted by ticktack at April 3, 2009, 12:27 am │ Comments(0) │ TrackBack(0)</
 Posted by ticktack at April 8, 2009, 9:35 am │ Comments(0) │ TrackBack(0)</description>
 <pubDate>Wed, 05 Sep 2012 14:37:04 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db9.voiceblog.jp/data/kutsumasan/1343964026.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/13020107kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１０８回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1788945.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464473309.html</link>
 <description>今週のテーマトークではゆる〜いコーナー&amp;#8232;が展開！
 皆さん、ゆるい気持ちで聞いて下さい！&amp;#8232;&amp;#8232;
 
@@ -2670,14 +2670,14 @@ Posted by ticktack at April 8, 2009, 9:35 am │ Comments(0) │ TrackBack(0)</d
 Posted by ticktack at April 15, 2009, 10:11 am │ Comments(0) │ TrackBack(0)</description>
 <pubDate>Wed, 05 Sep 2012 14:40:11 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db9.voiceblog.jp/data/kutsumasan/1343964055.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/13120108kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１０９回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1788948.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464488642.html</link>
 <description>かつてない雄叫びで始まる今回！&amp;#8232;
 今週も元気＆くだらない放送です！！！&amp;#8232;&amp;#8232;
 
@@ -2698,14 +2698,14 @@ Posted by ticktack at April 15, 2009, 10:11 am │ Comments(0) │ TrackBack(0)<
 Posted by ticktack at April 22, 2009, 11:04 pm │ Comments(0) │ TrackBack(0)</description>
 <pubDate>Wed, 05 Sep 2012 14:42:04 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db9.voiceblog.jp/data/kutsumasan/1343964077.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/13220109kai.mp3" />
 </item>
 
 
 <item>
 <title>正夢チックタック〜第１１０回〜</title>
-<link>http://www.voiceblog.jp/kutsumasan/1788949.html</link>
+<link>http://masayumeticktack.seesaa.net/article/464488651.html</link>
 <description>お待たせしました！１１０回です！&amp;#8232;
 今週は１０２回で発表した新企画が&amp;#8232;ついに始動します！！&amp;#8232;&amp;#8232;
 
@@ -2727,8 +2727,8 @@ AVの話の続編やらいろいろと話してます
 Posted by ticktack at May 2, 2009, 10:42 pm │ Comments(0)</description>
 <pubDate>Wed, 05 Sep 2012 14:43:58 +0900</pubDate>
 <author>yuki</author>
-<itunes:author>yuki</itunes:author>
-<enclosure url="http://db9.voiceblog.jp/data/kutsumasan/1343964102.mp3" type="audio/mpeg" />
+<ns0:author>yuki</ns0:author>
+<enclosure type="audio/mpeg" url="http://masayumeticktack.up.seesaa.net/image/13320110kai.mp3" />
 </item>
 
 </channel>
